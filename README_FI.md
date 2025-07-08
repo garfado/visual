@@ -1,4 +1,4 @@
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" height="250" align="right" alt="Habbo xmas tree" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmNhdnY0bHJqOGF2aWFrOG01dXRlODJ3azJpM2kycnFsMnFsaXBhNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WotkGXJKKeosD7IO9K/giphy.gif" height="250" align="right" alt="Joulukuusi kuvituskuva" />
 
 <p align="left">
   <a href="https://www.linkedin.com/in/wesenbergg"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn Badge"></a>
@@ -12,22 +12,20 @@
 
 <a href="https://github.com/wesenbergg/wesenbergg/blob/main/README.md">🇺🇸 English</a>
 <a href="https://github.com/wesenbergg/wesenbergg/blob/main/README_FI.md">🇫🇮 Suomi</a>
-# Greetings, traveller!
-
-> Simplicity is the soul of efficiency.
+# Tervetuloa!
   
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right" alt="Habbo hands typing keyboard" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGdvNTN3NXRoMmRtNHZ2aTVibzI4dGFidGMzNnZmcXJnemtxMDExayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/RhMmGFlRGT1UtgGTaD/giphy.gif" height="200" align="right" alt="Kädet kirjoittaa näppäimistöllä">
 
-I am a friendly Software Developer from Finland. I made a new year resolution for 2025 to code every day. Here is three random facts about me.
+Olen ystävällinen softakehittäjä Suomesta. Tein uudenvuodenlupauksen, että pusken koodia vuoden 2025 jokaisena päivänä. Alla kolme hauskaa faktaa minusta.
 
-1. Passionate to discover and learn new tech.
-2. Interested in mastering AWS and UX.
-3. In my free time I listen audio books.
+1. Hauskinta ohjelmoinnissa on oppia ja löytää uutta.
+2. Tähtään AWS ja UX-mestariksi.
+3. Vapaa-ajalla kävelen rappusia ja kuuntelen äänikirjoja.
 
 <details>
-  <summary>🔥 &nbsp; My Stats</summary>
+  <summary>🔥 &nbsp; Tilastot</summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=wesenbergg&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58)](https://streak-stats.demolab.com?user=wesenbergg)
+[![GitHub Streak](https://streak-stats.demolab.com?user=wesenbergg&theme=nightowl&hide_border=true&border_radius=8&card_width=600&background=67%2C3E0C11%2C001E58)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesenbergg&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
@@ -35,7 +33,7 @@ I am a friendly Software Developer from Finland. I made a new year resolution fo
 
 <details>
   <summary>
-    🛠 &nbsp; Languages and Tools
+    🛠 &nbsp; Työkalupakki
   </summary>
   <p>
     <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -59,7 +57,7 @@ I am a friendly Software Developer from Finland. I made a new year resolution fo
 
 <details>
   <summary>
-    ✨ Highlights
+    ✨ Saavutukset
   </summary>
   <p>
     TBD
